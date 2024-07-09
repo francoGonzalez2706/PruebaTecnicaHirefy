@@ -104,6 +104,9 @@ select::after {
 }
 .items {
   padding: 0.5rem;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
 }
 .img_card {
   width: 700px;
