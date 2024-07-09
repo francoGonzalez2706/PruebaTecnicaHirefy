@@ -1,0 +1,72 @@
+{
+  "release": [
+    {
+      "Title": "Release 6.5",
+      "subTitle": "New features and enhanced",
+      "timeline": [
+        {
+          "title": "Redesigned notifications",
+          "chipDate": {
+            "chip": "Feat",
+            "date": "Aug 10, 2024"
+          },
+          "description": "Customizing your notification settings is now easier than ever. Quickly change your settings using presets like Focused or Mentions only, or tailor them to fit your needs.",
+          "img": "/img1.png"
+        },
+        {
+          "title": "Redesigned notifications",
+          "chipDate": {
+            "chip": "Fix",
+            "date": "Aug 10, 2024"
+          },
+          "description": "Customizing your notification settings is now easier than ever. Quickly change your settings using presets like Focused or Mentions only, or tailor them to fit your needs.",
+          "items": [
+            "Unable to attach PDF to tasks using the Adobe integration",
+            "The total contract time between talent and clients cannot be updated",
+            "Some files are not loading when uploaded to portfolio",
+            "You cannot update the company photo",
+            "You cannot update the job post list from the talent dashboard",
+            "The marketplace filters were not working correctly, they duplicated cards",
+            "Users could enter a talent's portfolio without having to log in",
+            "Homepage: new images with correct shadows",
+            "Email Hirefy signatures displayed incorrect padding"
+          ]
+        },
+        {
+          "title": "Redesigned notifications",
+          "chipDate": {
+            "chip": "Feat",
+            "date": "Jul 23, 2024"
+          },
+          "description": "Customizing your notification settings is now easier than ever. Quickly change your settings using presets like Focused or Mentions only, or tailor them to fit your needs.",
+          "img": "/img2.png"
+        }
+      ]
+    },
+    {
+      "Title": "Release 6.5",
+      "subTitle": "New features and enhanced",
+      "timeline": [
+        {
+          "title": "Redesigned notifications",
+          "chipDate": {
+            "chip": "Feat",
+            "date": "Jul 15, 2024"
+          },
+          "description": "Customizing your notification settings is now easier than ever. Quickly change your settings using presets like Focused or Mentions only, or tailor them to fit your needs.",
+          "items": [
+            "Unable to attach PDF to tasks using the Adobe integration",
+            "The total contract time between talent and clients cannot be updated",
+            "Some files are not loading when uploaded to portfolio",
+            "You cannot update the company photo",
+            "You cannot update the job post list from the talent dashboard",
+            "The marketplace filters were not working correctly, they duplicated cards",
+            "Users could enter a talent's portfolio without having to log in",
+            "Homepage: new images with correct shadows",
+            "Email Hirefy signatures displayed incorrect padding"
+          ]
+        }
+      ]
+    }
+  ]
+}

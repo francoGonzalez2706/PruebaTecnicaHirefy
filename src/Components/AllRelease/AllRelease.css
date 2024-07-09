@@ -1,0 +1,32 @@
+.ListReleases {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  padding: 5rem 10rem 0 10rem;
+  position: relative;
+  gap: 1rem;
+}
+.ListReleases h2 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+}
+.Container_Releses {
+  display: flex;
+  gap: 0.5rem;
+  flex-direction: column;
+  width: 50%;
+}
+.relese {
+  transition: all 0.25s;
+  cursor: pointer;
+}
+.relese:hover {
+  transform: scale(1.05);
+}
+@media screen and (max-width: 600px) {
+  .ListReleases {
+    padding: 0;
+    align-self: center;
+  }
+}

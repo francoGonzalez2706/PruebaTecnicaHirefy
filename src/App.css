@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.MainContainer {
+  display: flex;
+  gap: 2vw;
+}
+
+@media screen and (max-width: 600px) {
+  .MainContainer {
+    flex-direction: column;
+  }
+}
